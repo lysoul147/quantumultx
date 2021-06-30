@@ -1,0 +1,28 @@
+{
+	"name": "lysoul",
+	"description": "https://github.com/lysoul147/quantumultx",
+	"task": [
+		"15 */3 * * * https://raw.githubusercontent.com/ziye11/JavaScript/main/Task/zhima.js, tag=芝嬷视频",
+		"2,5,9 6 * * * https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js, tag=中青看看赚, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
+		"16 15,18 * * * https://raw.githubusercontent.com/CenBoMin/GithubSync/main/TXSTOCK/txstockqx.js, tag=腾讯自选股",
+		"37 7 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/zxhc/zxhc.cookie.js, tag=智行火车",
+		"25 9 * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/flw.js, tag=返利网签到, img-url=https://raw.githubusercontent.com/lysoul147/quantumultx/main/icon/flw.png",
+		"1 7 * * * https://raw.githubusercontent.com/shylocks/Loon/main/jd_wechat_sign.js, tag=京东粉丝专享, img-url=https://raw.githubusercontent.com/lysoul147/quantumultx/main/icon/jdfans.png",
+		"23 7-17 * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/xiaole.js, tag=小乐, img-url=https://raw.githubusercontent.com/lysoul147/quantumultx/main/icon/xiaole.png",
+		"*/30 * * * * https://raw.githubusercontent.com/ziye12/QCZJSPEED/main/Task/qczjspeed.js, tag=汽车之家极速版, img-url=https://raw.githubusercontent.com/lysoul147/quantumultx/main/icon/qczjspeed.png",
+		"*/10 * * * * https://raw.githubusercontent.com/ziye12/JavaScript/main/Task/iboxpay.js, tag=笑谱, img-url=https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/img/xp.png",
+		"40 9 * * * https://raw.githubusercontent.com/ZhiYi-N/Private-Script/master/Scripts/dyjsb.js, tag=抖音极速版, img-url=https://raw.githubusercontent.com/lysoul147/quantumultx/main/icon/dyspeed.png",
+		"25 5 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/jddj/jddj.js, tag=JD到家, img-url=https://raw.githubusercontent.com/lysoul147/quantumultx/main/icon/jddj.png",
+		"1 7 * * * https://raw.githubusercontent.com/whyour/hundun/master/quanx/didi.js, tag=滴滴出行, img-url=https://raw.githubusercontent.com/Orz-3/task/master/didi.png",
+		"9 10-15 31 * * https://raw.githubusercontent.com/ziye12/JavaScript/master/flwhbziye.js, tag=天天返利, img-url=https://raw.githubusercontent.com/lysoul147/quantumultx/main/icon/flw.png",
+		"30 7 * * * https://raw.githubusercontent.com/moposmall/Script/main/Me/jx_cfd.js, tag=京喜财富岛, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png",
+		"32 5 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/mcdd/mcdd.js, tag=叮咚买菜 ,img-url=https://raw.githubusercontent.com/shoujiqiyuan/PokemonGOforQuanX/master/IconSet/Z012.png",
+		"5 5 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/hellobike/hellobike.js, tag=哈啰单车, img-url=https://raw.githubusercontent.com/lysoul147/quantumultx/main/icon/hellobike.png",
+		"15 5 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/bilibili/bilibili.js, tag=bilibili, img-url=https://raw.githubusercontent.com/lysoul147/quantumultx/main/icon/bilibili.png",
+		"4 5 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/smzdm/quanx/smzdm.js, tag=SMZDM, img-url=https://raw.githubusercontent.com/lysoul147/quantumultx/main/icon/smzdm.png",
+		"10 5-10 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/Youth_Read.js, tag=中青刷阅读, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
+		"*/20 6,9,15,18,21 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/youth.js, tag=中青签到, img-url=https://raw.githubusercontent.com/Orz-3/task/master/youth.png",
+		"45 5 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/txnews.js, tag=腾讯新闻, img-url=https://raw.githubusercontent.com/lysoul147/quantumultx/main/icon/txnews.png",
+		"0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/iQIYI-DailyBonus/iQIYI.js, tag=爱奇艺, img-url=https://raw.githubusercontent.com/lysoul147/quantumultx/main/icon/aiqiyi.png",
+	]
+}

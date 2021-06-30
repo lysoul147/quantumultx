@@ -1,0 +1,30 @@
+{
+	"id": "lysoul147.script.sub",
+	"name": "lysoul 脚本订阅",
+	"author": "@lysoul147",
+	"icon": "https://avatars.githubusercontent.com/u/19219654?s=460&u=0438b680185d3639f6206351f5fdb2491cbc7117&v=4",
+	"repo": "https://github.com/lysoul147",
+	"apps": [
+		{
+		"id":"exportData",
+		"name":"导出数据",
+		"keys": ["getdataname"],
+      	"descs_html": [
+        "打开你要导出变量的脚本，找到getdata('xxx')对应的xxx变量名，将变量名填入下方，多个变量名用&符号隔开。getjson、getval同理。",
+        "填写完成后点击”保存设置“，点击右上角运行脚本，或者在QX中运行【<a href=\"https://raw.githubusercontent.com/lysoul147/quantumultx/main/Scripts/exportData.js\">导出数据</a>】脚本"
+      	],
+		"settings": [
+			{
+	        "id": "getdataname",
+	        "name": "getdata变量名",
+	        "val": "",
+	        "type": "text",
+	        "desc": "填入getdata/getaval/getjson方法对应的变量名,多个变量名用&隔开"
+			}
+		],
+	    "repo": "https://github.com/lysoul147/quantumultx/blob/main/Scripts/exportData.js",
+	    "icons": ["https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Telegram_X.png", "https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Telegram_X.png"],
+	    "script": "https://raw.githubusercontent.com/lysoul147/quantumultx/main/Scripts/exportData.js"
+		}
+	]
+}
